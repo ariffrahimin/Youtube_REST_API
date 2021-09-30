@@ -1,5 +1,5 @@
 from flask import Flask, request
-from flask_restful import Api, Resource, reqparse
+from flask_restful import Api, Resource, reqparse, abort
 
 app = Flask(__name__)
 api = Api(app)
@@ -14,6 +14,11 @@ video_put_args.add_argument(
 
 
 videos = {}
+
+
+def abort_if_video_id_not_exist(video_id):
+    if video_id not in videos:
+        abort()
 
 
 class Video(Resource):
