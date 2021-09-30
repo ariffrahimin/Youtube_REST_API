@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Python_YT_REST_API" />
+  <img src="images/hello.gif" alt="Python_YT_REST_API" />
 
 &#xa0;
 
