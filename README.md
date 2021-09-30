@@ -8,13 +8,13 @@
 <h1 align="center">Python_YT_REST_API</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ariffkamski/python_yt_rest_api?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ariffrahimin/python_yt_rest_api?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ariffkamski/python_yt_rest_api?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ariffrahimin/python_yt_rest_api?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ariffkamski/python_yt_rest_api?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ariffrahimin/python_yt_rest_api?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/ariffkamski/python_yt_rest_api?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/ariffrahimin/python_yt_rest_api?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/python_yt_rest_api?color=56BEB8" /> -->
 
@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/ariffkamski" target="_blank">Author</a>
+  <a href="https://github.com/ariffrahimin" target="_blank">Author</a>
 </p>
 
 <br>
@@ -70,7 +70,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com)
 
 ```bash
 # Clone this project
-$ git clone https://github.com/ariffkamski/python_yt_rest_api
+$ git clone https://github.com/ariffrahimin/python_yt_rest_api
 
 # Access
 $ cd python_yt_rest_api
@@ -88,7 +88,7 @@ $ python test.py
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/ariffkamski" target="_blank">Ariff Kamski</a>
+Made with :heart: by <a href="https://github.com/ariffrahimin" target="_blank">Ariff Kamski</a>
 
 &#xa0;
 
